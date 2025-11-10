@@ -2,7 +2,7 @@
 ### Using Linear Regression
 
 **Objective:**  
-This project demonstrates how to handle missing target values using a **model-based imputation** technique rather than removing rows or filling missing values with averages.
+This CaseStudy demonstrates how to handle missing target values using a **model-based imputation** technique rather than removing rows or filling missing values with averages.
 
 **Dataset Used:** Real_Estate_with_Missing.csv  
 **Guided by:** Aman Kharwal -Reference for conceptual understanding  
@@ -10,7 +10,7 @@ This project demonstrates how to handle missing target values using a **model-ba
 
 ---
 
-## 📌 Project Overview
+## 📌 CaseStudy Overview
 
 Many real-world datasets contain missing values. In this case study, the *House Price per Unit Area* column contained missing entries (some incorrectly recorded as `0`).  
 Instead of dropping valuable data or using naive imputation, we use **Linear Regression to predict and fill the missing values.**
